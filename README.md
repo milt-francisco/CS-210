@@ -3,12 +3,12 @@ CS-210 Programming Languages Repo
 
 This repository will hold the projects I created during my time in this class.
 
-#Project 1
+Project 1
 Chada Tech Clocks
-##Problem Statement 
+Problem Statement 
 Chada Tech has domestic and international clients. To meet international standard ISO 8601, Chada Tech wants their clients to be able to view a 12- and a 24-hour clock on their website rather than just the standard 12-hour clock.  
 
-##Functional Requirements 
+Functional Requirements 
 1. Clock12: Time should be displayed in 12-hour format where the clock does not exceed 12:59:59.
 2. Clock24: Time should be displayed in 24-hour format where the clock does not exceed 23:59:59.
 3. Both clocks should display on the screen with the current time in the proper format. For example:
