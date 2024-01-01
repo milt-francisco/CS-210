@@ -1,7 +1,7 @@
 # C++/CS-210 Programming Languages Repo
 
 
-This repository will hold the projects I created during my time learning C++ in CS-210
+This repository holds the projects I created during my time learning C++ in CS-210
 
 ## Project 1:
 
