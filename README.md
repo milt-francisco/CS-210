@@ -7,12 +7,6 @@ This repository holds the projects I created during my time learning C++ in CS-2
 
 Chada Tech Clocks
 
-### Functional Requirements
-```img
-
-
-```
-
  ## Project 2:
 
  ## Project 3:
