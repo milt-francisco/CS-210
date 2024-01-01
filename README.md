@@ -6,6 +6,7 @@ This repository holds the projects I created during my time learning C++ in CS-2
 ## Project 1
 
 ### Chada Tech Clocks
+Each Project has their own README.md
 
 ## Project 2
 
