@@ -1,5 +1,9 @@
 # Project 1 
 ### Summarize the project and what problem it was solving.
+#### Problem Statement:
+Chada Tech is a software engineering company who has domestic and international clients. To meet international standard ISO 8601, Chada Tech wants their clients to be able to view a 12- and a 24-hour clock on their website rather than just the standard 12-hour clock.
+##
+![clock](https://github.com/milt-francisco/Cplusplus-program/assets/121690557/f947b091-7233-4cbc-841d-49edb0cb2cdb)
 
 ### What did you do particularly well?
 I am particularly pleased in how my program displays to the console.
@@ -16,4 +20,4 @@ The most transferable skill I have from this is the ability to peruse documentat
 ### How did you make this program maintainable, readable, and adaptable?
 I made this program maintainable, readable and adaptable by dividing each into their own files. This helps by having related functions grouped together, so if the program requirements change, or we want to add new functionality we can easily do this by navigating to the applicable file. Additionally, I believe my variable names are descriptive and comments describe what everything does without the entire file being commented out. 
 ###
-Ultimately, I know it can be done better and with time I am sure I will adapt to this new language. 
+Ultimately, I know it can be done better but as a first project I am pleased with the outcome. 
