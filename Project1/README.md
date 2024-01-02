@@ -4,6 +4,7 @@
 Chada Tech is a software engineering company who has domestic and international clients. To meet international standard ISO 8601, Chada Tech wants their clients to be able to view a 12- and a 24-hour clock on their website rather than just the standard 12-hour clock.
 #### Clock Example / Menu Example
 ![clock](https://github.com/milt-francisco/Cplusplus-program/assets/121690557/f947b091-7233-4cbc-841d-49edb0cb2cdb)
+.
 ![menuOptions](https://github.com/milt-francisco/Cplusplus-program/assets/121690557/a44aebd1-0d06-4b4d-9190-8a78806c59a2)
 #
 Using the above requirements Chada Tech required ISO 8601 compliant clocks in C++ with a flow outline as stated below.
