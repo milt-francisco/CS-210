@@ -24,6 +24,6 @@ The piece of code I had the most trouble with was the global variables I establi
 The most transferable skill I have from this is the ability to read and understand documentation. After a while it seems each language is quite similar, and being able to browse documentation to learn the "ins and outs" of the particular language you are using is incredibly helpful.
 
 ### How did you make this program maintainable, readable, and adaptable?
-I made this program maintainable, readable and adaptable by dividing each into their own files. This helps by having related functions grouped together, so if the program requirements change, or we want to add new functionality we can easily do this by navigating to the applicable file. Additionally, I believe my variable names are descriptive and comments describe what everything does without the entire file being commented out. 
+I made this program maintainable, readable and adaptable by dividing each into their own files. This helps by having related functions grouped together, so if the program requirements change, or we want to add new functionality we can easily do this by navigating to the applicable file. This Object-Oriented approach is typically the standard from what I have seen. Additionally, I believe my variable names are descriptive and comments describe what everything does without the entire file being commented out. 
 ###
 Ultimately, I know it can be done better but as a first project I am pleased with the outcome. 
