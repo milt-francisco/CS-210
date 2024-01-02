@@ -1,6 +1,6 @@
 # Project 1 
 ### Summarize the project and what problem it was solving.
-Created in Visual C++
+![Static Badge](https://img.shields.io/badge/Created%20in-Visual%20C%2B%2B-purple)
 #### Problem Statement:
 Chada Tech is a software engineering company who has domestic and international clients. To meet international standard ISO 8601, Chada Tech wants their clients to be able to view a 12- and a 24-hour clock on their website rather than just the standard 12-hour clock.
 #### Clock Example
