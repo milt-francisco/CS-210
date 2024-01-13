@@ -15,6 +15,10 @@
 
 ### AirGead Banking
 #
+![Report](<Project2 Screenshot.png>)
+
 ## Project 3
 
 ### Corner Grocer
+#
+![Histogram](thirdMenuOption.png)
