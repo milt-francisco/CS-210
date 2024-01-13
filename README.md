@@ -15,10 +15,11 @@
 
 ### AirGead Banking
 #
-![Report](<Project2 Screenshot.png>)
+![Project2 Screenshot](https://github.com/milt-francisco/Cplusplus-program/assets/121690557/27e53cae-6ed4-47dd-bd89-15a19e79416e)
+
 
 ## Project 3
 
 ### Corner Grocer
 #
-![Histogram](thirdMenuOption.png)
+![Project3 Histogram](https://github.com/milt-francisco/Cplusplus-program/assets/121690557/0bfea0e0-56f4-4d13-bdf5-6c36cf9f2a15)
