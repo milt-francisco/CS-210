@@ -8,6 +8,8 @@
 
 ### Chada Tech Clocks
 #
+![clock](https://github.com/milt-francisco/Cplusplus-program/assets/121690557/17369b0a-f227-43a3-b3d5-56107d7ee0a3)
+
 
 ## Project 2
 
