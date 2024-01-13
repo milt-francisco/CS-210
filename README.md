@@ -15,7 +15,9 @@
 
 ### AirGead Banking
 #
-![Project2 Screenshot](https://github.com/milt-francisco/Cplusplus-program/assets/121690557/27e53cae-6ed4-47dd-bd89-15a19e79416e)
+![Project2 Screenshot](https://github.com/milt-francisco/Cplusplus-program/assets/121690557/a3707c8a-ea79-46b1-8d25-b4f229dd6bcc)
+
+
 
 
 ## Project 3
