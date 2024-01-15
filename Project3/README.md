@@ -23,7 +23,7 @@ The fourth, and final, menu option allows the user to exit the program and displ
 ##
 ![image](https://github.com/milt-francisco/Cplusplus-program/assets/121690557/63e8e9ae-d063-420c-b131-4eab048bc061)
 ## 
-Finally, user input validation is accomplished using a “do-while” loop and a “switch” statement. 
+Finally, user input validation is accomplished using a “do-while” loop and a “switch” statement, located in the mainMenu helper function (main.cpp). 
 If a user does not input a value between 1 and 4, the switch statement’s default case is taken, which clears the input stream, and resets back to the main menu, 
 but now with a message to indicate the correct usage of the program.
 ##
