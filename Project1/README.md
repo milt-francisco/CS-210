@@ -28,3 +28,7 @@ The most transferable skill I have from this is the ability to read and understa
 I made this program maintainable, readable and adaptable by dividing each into their own files. This helps by having related functions grouped together, so if the program requirements change, or we want to add new functionality we can easily do this by navigating to the applicable file. This Object-Oriented approach is typically the standard from what I have seen. Additionally, I believe my variable names are descriptive and comments describe what everything does without the entire file being commented out. 
 ###
 Ultimately, I know it can be done better but as a first project I am pleased with the outcome. 
+
+
+#Version 2
+I went back through this program and utilized Classes to enhance my code. I realized when I first created this, it was lacking something that I had not learned about yet. Now, this code is utilizing classes and, while still could be improved, I am satisfied with this result for now.
