@@ -31,4 +31,4 @@ Ultimately, I know it can be done better but as a first project I am pleased wit
 
 
 ## Version 2
-I went back through this program and utilized Classes to enhance my code. I realized when I first created this, it was lacking something that I had not learned about yet. Now, this code is utilizing classes and, while still could be improved, I am satisfied with this result for now.
+I went back through this program and utilized Classes to enhance my code. I realized when I first created this, it was lacking something that I had not learned about yet. Now, this code is utilizing classes and, while it still could be improved, I am satisfied with this result for now.
